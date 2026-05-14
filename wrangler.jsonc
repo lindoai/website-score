@@ -1,0 +1,11 @@
+{
+  "name": "lindo-free-tool-website-score",
+  "main": "src/index.ts",
+  "workers_dev": true,
+  "compatibility_date": "2025-11-17",
+  "compatibility_flags": ["nodejs_compat"],
+  "browser": {
+    "binding": "BROWSER"
+  },
+  "observability": { "enabled": true }
+}
